@@ -3,7 +3,7 @@
  If you want to use full of the config you need to use neovide for that.
 
 # Instalation
- 1. You need [vim-plug](https://github.com/junegunn/vim-plug)
+ 1. You need [vim-plug](https://github.com/junegunn/vim-plug) installed to use this config
  2. Cd to your vim/nvim config directory
  3. Clone the github repository
  ```console
